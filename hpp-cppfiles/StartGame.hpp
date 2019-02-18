@@ -1,0 +1,6 @@
+#ifndef STARTGAME_HPP_INCLUDED
+#define STARTGAME_HPP_INCLUDED
+
+void StartGame();
+
+#endif // STARTGAME_HPP_INCLUDED
